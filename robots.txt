@@ -1,0 +1,6 @@
+# Allow all search engines to crawl the site
+User-agent: *
+Allow: /
+
+# Point to sitemap
+Sitemap: https://khanhai.github.io/InvestProff/sitemap.xml
